@@ -1,5 +1,6 @@
 ### 👋 Hey there! I’m Ishan (@Ishaannn31)
 
+
 Welcome to my corner of the internet! 😄
 
 - 👀 **Passions:** Currently deep into Web Development, with plans to dive into the world of Machine Learning and Computer Vision. It’s all about blending creativity and logic, right? 
@@ -25,3 +26,13 @@ I’m passionate about coding, solving problems, and learning new things. My jou
 ---
 
 _“Learning never exhausts the mind.”_ – Da Vinci, and me, every day 😄
+
+<p float="left">
+    <a href="https://www.linkedin.com/in/ishan-jadhao">
+        <img src="https://img.shields.io/badge/-Ishan%20Jadhao-blue?style=flat&logo=LinkedIn&logoColor=white" />
+    </a>
+    &nbsp; &nbsp; <!-- Space between the images -->
+    <a href="https://twitter.com/ishaannn31">
+        <img src="https://img.shields.io/badge/-@ishaannn31-1DA1F2?style=flat&logo=X&logoColor=black" />
+    </a>
+</p>
