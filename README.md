@@ -10,13 +10,15 @@ Welcome to my corner of the internet! 😄
 - ⚡ **Fun fact:** Python is my next big adventure – watch out for some ML experiments in the near future!
 
 ---
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ishaannn31&show_icons=true&theme=radical)
+<p float="left">
+    <img src="https://github-readme-stats.vercel.app/api?username=Ishaannn31&show_icons=true&theme=radical" width="400" height="200" />
+    &nbsp; &nbsp; <!-- Space between the images -->
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ishaannn31&layout=compact&theme=radical" width="400" height="200" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ishaannn31&layout=compact&theme=radical)
 
-![Languages Used](https://github-readme-stats.vercel.app/api/languages/cards?username=Ishaannn31&theme=radical)
 
-💻 **MERN Stack Developer**, also fluent in **C**, **OOP in Java**, and **MIPS Assembly** (yeah, I like mixing low-level and high-level coding). ps: MIPS is part of degree :)
+💻 **COMPUTER SCIENTIST/ENGINEER**, who knows MERN STACK, also fluent in **C**, **OOP in Java**, and **MIPS Assembly** (yeah, I like mixing low-level and high-level coding). ps: MIPS is part of degree :)
 
 I’m passionate about coding, solving problems, and learning new things. My journey is a mix of curiosity, innovation, and a dash of fun! Follow along, and let’s connect if you're into AI, Web Dev, or anything tech!
 
