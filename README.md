@@ -10,6 +10,11 @@ Welcome to my corner of the internet! 😄
 - ⚡ **Fun fact:** Python is my next big adventure – watch out for some ML experiments in the near future!
 
 ---
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ishaannn31&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ishaannn31&layout=compact&theme=radical)
+
+![Languages Used](https://github-readme-stats.vercel.app/api/languages/cards?username=Ishaannn31&theme=radical)
 
 💻 **MERN Stack Developer**, also fluent in **C**, **OOP in Java**, and **MIPS Assembly** (yeah, I like mixing low-level and high-level coding). ps: MIPS is part of degree :)
 
