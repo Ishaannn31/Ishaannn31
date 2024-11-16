@@ -32,7 +32,5 @@ _“Learning never exhausts the mind.”_ – Da Vinci, and me, every day 😄
         <img src="https://img.shields.io/badge/-Ishan%20Jadhao-blue?style=flat&logo=LinkedIn&logoColor=white" />
     </a>
     &nbsp; &nbsp; <!-- Space between the images -->
-    <a href="https://twitter.com/ishaannn31">
-        <img src="https://img.shields.io/badge/-@ishaannn31-1DA1F2?style=flat&logo=X&logoColor=black" />
-    </a>
+  
 </p>
