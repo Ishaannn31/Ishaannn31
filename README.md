@@ -8,7 +8,7 @@ Welcome to my corner of the internet! 😄
 - 💬 **Collaboration:** Open to working on Web Dev and exciting open-source projects. Let’s build something cool together!
 - 📫 **Reach me at:** ijadhao.de@gmail.com – I’m just one click away!
 - 😄 **Pronouns:** He/Him
-- ⚡ **Fun fact:** Way too excited about the future, so I do things that wants me to live
+- ⚡ **Fun fact:** Way too excited about the future, so I do things that makes me wanna live
 
 ---
 <p float="left">
