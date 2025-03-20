@@ -4,7 +4,7 @@
 Welcome to my corner of the internet! 😄
 
 - 👀 **Passions:** AI, Computer vision, BCI, Neurotech. It’s all about blending creativity and logic to solve real world problems and making avaible for User , right? 
-- 🌱 **Learning Journey:** Pursuing a degree in Data Science and Artificial Intelligence at Saarland University. Excited to start first AI_ML projects in Winter breaks and will share with y'all before April 2025!!!
+- 🌱 **Learning Journey:** Pursuing a degree in Data Science and Artificial Intelligence at Saarland University. 
 - 💬 **Collaboration:** Open to working on anything meaningful. Let’s build something cool together!
 - 📫 **Reach me at:** ijadhao.de@gmail.com – I’m just one click away!
 - 😄 **Pronouns:** He/Him
