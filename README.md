@@ -18,7 +18,7 @@ Welcome to my corner of the internet! 😄
 
 
 
-💻 **COMPUTER SCIENTIST**, who is learning AI, also fluent in **OCaml**, **C**, **OOP in Java**, and **MIPS Assembly** (yeah, I like mixing low-level and high-level coding). ps: MIPS is part of degree :)
+💻 **COMPUTER SCIENTIST**, who is learning ML, also fluent in **Python** ,**OCaml**, **C**, **OOP in Java**, and **MIPS Assembly** (yeah, I like mixing low-level and high-level coding). ps: MIPS is part of degree :)
 
 I’m passionate about coding, solving problems, and learning new things. My journey is a mix of curiosity, innovation, and a dash of fun! Follow along, and let’s connect if you're into AI, Software Dev, or anything tech!
 
