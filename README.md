@@ -1,12 +1,12 @@
-### 👋 Hi, Hallo, Hola, नमस्ते, नमस्कार ! I’m Ishan (@Ishaannn31)
+### 👋 Hi! I’m Ishan (@Ishaannn31)
 
 
-Welcome to my corner of the internet! 😄
+Welcome to my corner of the internet! ^^
 
-- 👀 **Passions:** AI/ML, Automation, BCI, Neurotech. It’s all about blending creativity and logic to solve real world problems and making avaible for User , right? 
-- 🌱 **Learning Journey:** Pursuing a degree in Data Science and Artificial Intelligence at Saarland University. 
-- 💬 **Collaboration:** Open to working on anything meaningful. Let’s build something cool together!
-- 📫 **Reach me at:** ijadhao.de@gmail.com – I’m just one click away!
+- 👀 **Interests:** AI/ML, Automation, Problem solving
+- 🌱 **Learning Journey:** Computer Science student specializing in Data Science and Artificial Intelligence at Saarland University. 
+- 💬 **Collaboration:** Open to working on anything meaningful. 
+- 📫 **Reach me at:** ijadhao.de@gmail.com ,just one click away!
 - 😄 **Pronouns:** He/Him
 - ⚡ **Fact:** Motivation is for those who aren't obessesed. You gotta be excited about the future and so do things that makes you wanna live!!!
 ---
@@ -16,11 +16,6 @@ Welcome to my corner of the internet! 😄
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ishaannn31&layout=compact&theme=radical" width="400" height="200" />
 </p>
 
-
-
-💻 **COMPUTER SCIENTIST**, who is learning ML, also fluent in **Python** ,**OCaml**, **C**, **OOP in Java**, and **MIPS Assembly** (yeah, I like mixing low-level and high-level coding). ps: MIPS is part of degree :)
-
-I’m passionate about coding, solving problems, and learning new things. My journey is a mix of curiosity, innovation, and a dash of fun! Follow along, and let’s connect if you're into AI, Software Dev, or anything tech!
 
 ---
 
