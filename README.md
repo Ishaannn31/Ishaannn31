@@ -1,9 +1,9 @@
 ### 👋 Hi! I’m Ishan (@Ishaannn31)
 
-Computer scientist at heart, studying Bsc. Data Science and AI at Saarland University.
+Computer scientist at heart, studying **BSc. Data Science and AI** at Saarland University.  
 
 I am passionate about building **intelligent systems that perceive the world, learn from data, and make autonomous decisions to simplify and enhance human life**.  
-I enjoy building software, but my primary interest lies in systems that replicate, extend, or augment human intelligence through perception, learning, and decision-making.
+I like making software, but I am most interested in systems that **replicate, augment, or optimize human intelligence**, whether in physical robots, virtual agents, or software itself.
 
 Focus areas include **Reinforcement Learning, Computer Vision, AI-driven Automation**, and **Intelligent Agent Simulation**.
 
@@ -11,9 +11,8 @@ Focus areas include **Reinforcement Learning, Computer Vision, AI-driven Automat
 - **Artificial Intelligence & Machine Learning**  
 - **Computer Vision & Simulation of Intelligent Agents**  
 - **Robotics & Autonomous Systems**  
-- **AI-driven Automation & Human-Centric Systems**  
+- **AI-driven Automation & Intelligent Software Optimization**  
 - **Problem Solving & System Thinking**
-
 
 ---
 <p float="left">
